@@ -5,7 +5,7 @@ This Attendance Manager solves the problem of staff cheating while marking atten
 Apart from this it will have all the common features of an Application like Notification, Registration, Request Module etc
 
 Project is currently in PHASE I of Developement.
-App is Developed using React-Native at Client Side and Python Django RestFramework at the Server Side
+App is been developed using React-Native at Client Side and Python Django RestFramework at the Server Side
 You can find the repositories of same below
 
 ## Client
